@@ -1,4 +1,4 @@
-# problemSolvingSkill1. Reverse the string
+# problemSolvingSkill
 1. Reverse a String
 2. Find Maximum Element in a List 
 3. Check for Palindrome
