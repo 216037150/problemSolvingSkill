@@ -40,6 +40,11 @@
 39. Binary Search
 40. Insestion sort
 41. https://www.w3schools.com/dsa/index.php
+42. AMAZON Lidearship skills: https://www.amazon.jobs/content/en/our-workplace/leadership-principles
+43. https://www.amazon.jobs/content/en/how-we-hire/online-application
+44. https://www.amazon.jobs/content/en/how-we-hire
+45. https://www.amazon.jobs/content/en/how-we-hire/phone-screening
+46. https://www.amazon.jobs/content/en/how-we-hire/interview-prep/software-development-topics
 
 
 
