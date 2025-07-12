@@ -26,7 +26,7 @@
 25. Difference between Array and ArrayList
 26. Difference between Protected and private
 27. what is a final class
-28. use STAR method to define your project
+28. use STAR method to explain your project
 29. Four pillars of OOP, explan them and give real life example
 30. final variable
 31. Hash, Set, Tree
