@@ -22,6 +22,24 @@
 21. Rotate a List Left by k Steps
 22. Count Words in a Sentence
 23. Find All Pairs with a Given Sum
+24. Difference between method of overloading and overriding
+25. Difference between Array and ArrayList
+26. Difference between Protected and private
+27. what is a final class
+28. use STAR method to define your project
+29. Four pillars of OOP, explan them and give real life example
+30. final variable
+31. Hash, Set, Tree
+32. Stack
+33. Queue
+34. BFS
+35. DFS
+36. Found duplicates in a String, Array
+37. Buble sort
+38. Linear Search
+39. Binary Search
+40. Insestion sort
+41. https://www.w3schools.com/dsa/index.php
 
 
 
